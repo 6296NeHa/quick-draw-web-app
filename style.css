@@ -1,0 +1,20 @@
+body{
+background-color: greenyellow;
+}
+
+#Score{
+font-size: 60px;
+float: left;
+margin-left: 20px;
+}
+
+#Timer{
+font-size: 60px;
+float: right;
+margin-right: 295px;
+}
+
+
+#Sketch To Be Drawn{
+color:blue;
+}
